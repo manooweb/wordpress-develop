@@ -2813,7 +2813,7 @@ body.page .main-navigation {
 
 .main-navigation .main-menu > li {
   color: #0073aa;
-  display: inline;
+  display: inline-block;
   position: relative;
 }
 
